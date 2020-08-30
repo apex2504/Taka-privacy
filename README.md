@@ -44,7 +44,7 @@ The above information is stored until the feature requiring the information is d
 
 For convenience purposes, once the bot has been removed from the guild all information stored will remain in case you wish to re-add the bot to your server. To remove the data relating to optional features, simply re-add the bot to your server, disable said features and then remove the bot again. If you are a server owner and wish to have the basic information deleted, please join our Discord server at https://takagisan.xyz/support and send a private message to apex#2504 (Discord user ID: 397869855749177345).
 
-## Other information
+## Public information
 
 Takagi-san contains certain features that will display basic information about a Discord user on the condition that they are in the same server as the person invoking the feature. This information will contain their Discord name, ID, account creation date and other basic information about their relationship with the server (join date, roles, etc.). This information is provided publicly by the Discord API and absolutely none of it is personally identifiable unless the concerned user makes it so. However, we understand that some people may want to keep this private. Therefore, if you want to be excluded from our basic userinfo command, please join our Discord server at https://takagisan.xyz/support and send a private message to apex#2504 (Discord user ID: 397869855749177345). Be aware that if you opt out of this feature, you will not be able to view the basic information about other users either. Also be aware that Discord already provides this information in other ways and we simply make it easy to access and display.
 
