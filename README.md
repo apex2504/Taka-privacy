@@ -1,6 +1,6 @@
 # Privacy notice
 
-Last updated: 30 August 2020
+Last updated: 04 November 2021
 
 Thank you for choosing to use Taka ("Taka, "bot", "we", "our") in your Guild ("server", "guild"). In order to allow us to deliver all services, we may collect certain information about the guild containing Takagi-san.
 
